@@ -1,4 +1,4 @@
-# Question-Answering-Similar-Question-Geneation
+# Question-Answering-Similar-Question-Generation
 
 This repo contains the Research paper report for the "Machine Learning" course. The topic of research was "Question Answering and Similar Question Generation". Question answering is a domain in the field of Information retrieval and natural language processing where a tool answers different questions posted in natural language. The
 answer is based on the context available for the program. Question generation is a part of the same domain where the
